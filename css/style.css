@@ -1,8 +1,12 @@
 /********************* COMMON **********************/
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+body {
+	background-color: #222;
+	color: white;
+	font-family: sans-serif;
+}
+
+.deb {
+	border: 2px dashed blue;
 }
 /********************* HEADER **********************/
 /********************** MAIN ***********************/
